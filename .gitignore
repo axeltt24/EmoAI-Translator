@@ -170,3 +170,16 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+#dart
+
+frontend/.dart_tool/
+frontend/ios/Flutter/ephemeral
+frontend/macos/Flutter/ephemeral
+flutter/ephemeral/
+
+#flutter builds 
+
+build/
+android/app/build/
+ios/build/
